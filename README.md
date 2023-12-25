@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ImmanuelMichael
+- 👋 Hi, I’m @ImmanuelMichaels
 - 👀 I’m interested in connecting
 - 🌱 I’m currently learning front-end web development
 - 💞️ I’m looking to collaborate on projects
